@@ -120,7 +120,7 @@
 <artifactId>poi</artifactId>
 <version>4.1.2</version>
 </dependency>
-  <dependency>
+<!--  <dependency>
   	<groupId>AppiumAssignmentt</groupId>
   	<artifactId>AssignmenttAppium</artifactId>
   	<version>0.0.1-SNAPSHOT</version>
@@ -129,10 +129,10 @@
   	<groupId>Assignment</groupId>
   	<artifactId>Cucumberr</artifactId>
   	<version>0.0.1-SNAPSHOT</version>
-  </dependency>
+  </dependency>-->
  </dependencies>
 
-   <build>
+    <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <!-- clean lifecycle, see https://maven.apache.org/ref/current/maven-core/lifecycles.html#clean_Lifecycle -->
@@ -177,4 +177,4 @@
       </plugins>
     </pluginManagement>
   </build>
-</project>
+	</poject>
