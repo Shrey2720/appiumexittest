@@ -6,7 +6,7 @@
 
 <groupId>AppiumExit</groupId>
   <artifactId>ExitTest</artifactId>
- <!--<version>0.0.1-SNAPSHOT</version>-->
+ <version>0.0.1-SNAPSHOT</version>
 
   <name>ExitTest</name>
   <!-- FIXME change it to the project's website -->
